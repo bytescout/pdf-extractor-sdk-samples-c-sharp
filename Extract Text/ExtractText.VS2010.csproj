@@ -8,8 +8,8 @@
     <ProjectGuid>{25E68A98-BA0D-428D-99F4-0ED8C42DD41C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExtractAllText</RootNamespace>
-    <AssemblyName>ExtractAllText</AssemblyName>
+    <RootNamespace>ExtractText</RootNamespace>
+    <AssemblyName>ExtractText</AssemblyName>
     <OldToolsVersion>3.5</OldToolsVersion>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
   </PropertyGroup>
@@ -45,10 +45,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="..\..\sample1.pdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <Link>sample1.pdf</Link>
-    </Content>
     <Content Include="..\..\sample2.pdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <Link>sample2.pdf</Link>

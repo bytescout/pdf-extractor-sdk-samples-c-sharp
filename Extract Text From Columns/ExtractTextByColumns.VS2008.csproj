@@ -7,8 +7,8 @@
     <ProjectGuid>{25E68A98-BA0D-428D-99F4-0ED8C42DD41C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExtractAllText</RootNamespace>
-    <AssemblyName>ExtractAllText</AssemblyName>
+    <RootNamespace>ExtractTextByColumns</RootNamespace>
+    <AssemblyName>ExtractTextByColumns</AssemblyName>
     <OldToolsVersion>2.0</OldToolsVersion>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
   </PropertyGroup>
@@ -44,13 +44,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="..\..\sample1.pdf">
+    <Content Include="..\..\columns.pdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <Link>sample1.pdf</Link>
-    </Content>
-    <Content Include="..\..\sample2.pdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <Link>sample2.pdf</Link>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
