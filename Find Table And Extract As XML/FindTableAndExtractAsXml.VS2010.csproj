@@ -1,16 +1,18 @@
-<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>9.0.21022</ProductVersion>
+    <ProductVersion>
+    </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{25E68A98-BA0D-428D-99F4-0ED8C42DD41C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExtractTextByPages</RootNamespace>
-    <AssemblyName>ExtractTextByPages</AssemblyName>
-    <OldToolsVersion>2.0</OldToolsVersion>
-    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <RootNamespace>FindTableAndExtractAsXml</RootNamespace>
+    <AssemblyName>FindTableAndExtractAsXml</AssemblyName>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -36,6 +38,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
@@ -45,10 +48,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\sample3.pdf">
+    <Content Include="..\..\sample3.pdf">
       <Link>sample3.pdf</Link>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
