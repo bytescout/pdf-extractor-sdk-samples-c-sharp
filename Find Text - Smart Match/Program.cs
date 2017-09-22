@@ -11,54 +11,50 @@
 
 
 using System;
-using System.IO;
-using System.Text;
 using Bytescout.PDFExtractor;
-using System.Drawing;
-using System.Diagnostics;
 
-namespace Example
+namespace FindTextSmartMatch
 {
     class Program
     {
         static void Main(string[] args)
         {
-
             TextExtractor extractor = new TextExtractor("demo", "demo");
 
-            // load the document
+            // Load the document
             extractor.LoadDocumentFromFile("sample2.pdf");
 
-            string searchString = "what";
-            
-            // get page count
-            int pageCount = extractor.GetPageCount();
-            int count = 0;
+            // Smart match the search string like Adobe Reader
+            extractor.WordMatchingMode = WordMatchingMode.SmartMatch;
 
-            // iterate through pages
+            string searchString = "land";
+
+            // Get page count
+            int pageCount = extractor.GetPageCount();
+            
+            // Iterate through pages
             for (int i = 0; i < pageCount; i++)
             {
-                // search for text string
+                // Search for text string
                 if (extractor.Find(i, searchString, false))
                 {
                     do
                     {
-                        count++;
-
-                        // output search results
+                        // Output search results
                         Console.WriteLine("Found on page " + i + " at location " + extractor.FoundText.Bounds.ToString());
 
-                        // now we are getting the found text
-			string extractedString = extractor.FoundText.Text;
-                        Console.WriteLine("Extracted string: " + extractedString);
-
+                        // Now we are getting the found text
+                        string extractedString = extractor.FoundText.Text;
+                        Console.WriteLine("Found text: " + extractedString);
                     }
-                    while (extractor.FindNext()); // search next occurance of the search string
+                    while (extractor.FindNext()); // Search next occurrence of the search string
                 }
             }
 
+            extractor.Dispose();
 
 
+            Console.WriteLine();
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
 

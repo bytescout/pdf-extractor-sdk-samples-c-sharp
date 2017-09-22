@@ -11,38 +11,42 @@
 
 
 using System;
+using System.IO;
 using Bytescout.PDFExtractor;
 
-namespace ExtractZUGFeRD
+namespace ExtractToStream
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Create Bytescout.PDFExtractor.AttachmentExtractor instance
-            AttachmentExtractor extractor = new AttachmentExtractor();
+            // Create Bytescout.PDFExtractor.TextExtractor instance
+            TextExtractor extractor = new TextExtractor();
             extractor.RegistrationName = "demo";
             extractor.RegistrationKey = "demo";
 
             // Load sample PDF document
-            extractor.LoadDocumentFromFile(@".\ZUGFeRD-invoice.pdf");
+            extractor.LoadDocumentFromFile(@".\sample1.pdf");
 
-            // Extract the XML invoice that is stored as an attachment
-            for (int i = 0; i < extractor.Count; i++)
+            // Get page count
+            int pageCount = extractor.GetPageCount();
+
+            for (int i = 0; i < pageCount; i++)
             {
-                Console.WriteLine("Saving XML invoice attachment: " + extractor.GetFileName(i));
+                // Create new stream. You can use MemoryStream or any other System.IO.Stream inheritor.
+                FileStream stream = new FileStream(@".\page" + i + ".txt", FileMode.Create);
                 
-                // Save file to current folder
-                extractor.Save(i, extractor.GetFileName(i));
+                // Save text from page to the file stream
+                extractor.SavePageTextToStream(i, stream);
 
-                Console.WriteLine("Done.");
+                // Close stream
+                stream.Dispose();
             }
 
             extractor.Dispose();
-            
-            Console.WriteLine();
-            Console.WriteLine("Press any key...");
-            Console.ReadLine();
+
+            // Open first output file in default associated application
+            System.Diagnostics.Process.Start(@".\page1.txt");
         }
     }
 }
