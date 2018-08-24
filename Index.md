@@ -1,0 +1,95 @@
+## Index of source code examples
+
+
+\Batch Processing
+\Compare Documents
+\Extract Attachments
+\Extract Audio
+\Extract Filled Form Data
+\Extract Images
+\Extract Images by Page
+\Extract Info
+\Extract Pages
+\Extract Table Structure
+\Extract Text
+\Extract Text By Columns
+\Extract Text By Pages
+\Extract Text From Page Area
+\Extract To Stream
+\Extract Video
+\Find Keyword And Extract Page
+\Find Keyword And Extract Text
+\Find Table And Extract As CSV
+\Find Table And Extract As XML
+\Find Text
+\Find Text (Regex)
+\Find Text - Smart Match
+\Find Text With Hyphens
+\Index PDF Files
+\Invoice Parsing
+\Make Searchable PDF
+\Make Unsearchable PDF
+\Merge Documents
+\OCR (Optical Character Recognition)
+\OCR Analyser
+\Parallel Processing
+\PDF To CSV
+\PDF To CSV By Pages
+\PDF To JSON
+\PDF To JSON With Images
+\PDF To XFDF
+\PDF To XLS
+\PDF To XML
+\PDF To XML With Images
+\PDF-A Compatibility Test
+\Profiles
+\Reduce Memory Usage
+\Remove Empty Pages
+\Remove Text
+\Rotate Document
+\Split Document
+\XFA Form To XML
+\ZUGFeRD Invoice Extraction
+\_Web API
+\_Web API\PDF Information
+\_Web API\PDF Make Searchable
+\_Web API\PDF Merging
+\_Web API\PDF Optimization
+\_Web API\PDF Splitting
+\_Web API\PDF To CSV
+\_Web API\PDF To Excel
+\_Web API\PDF To JSON
+\_Web API\PDF To Text
+\_Web API\PDF To XML
+\_Web API\PDF Information\Get PDF Info From Uploaded File
+\_Web API\PDF Information\Get PDF Info From URL
+\_Web API\PDF Make Searchable\Make Searchable PDF From Uploaded File
+\_Web API\PDF Make Searchable\Make Searchable PDF From URL
+\_Web API\PDF Make Searchable\Make Searchable PDF From URL Asynchronously
+\_Web API\PDF Merging\Merge PDF Documents From Uploaded Files
+\_Web API\PDF Merging\Merge PDF Documents From URLs
+\_Web API\PDF Merging\Merge PDF Documents From URLs Asynchronously
+\_Web API\PDF Optimization\Optimize PDF From Uploaded File
+\_Web API\PDF Optimization\Optimize PDF From URL
+\_Web API\PDF Optimization\Optimize PDF From URL Asynchronously
+\_Web API\PDF Splitting\Split PDF From Uploaded File
+\_Web API\PDF Splitting\Split PDF From URL
+\_Web API\PDF Splitting\Split PDF From URL Asynchronously
+\_Web API\PDF To CSV\Convert PDF To CSV From Uploaded File
+\_Web API\PDF To CSV\Convert PDF To CSV From URL
+\_Web API\PDF To CSV\Convert PDF To CSV From URL Asynchronously
+\_Web API\PDF To Excel\Convert PDF To XLS From Uploaded File
+\_Web API\PDF To Excel\Convert PDF To XLS From URL
+\_Web API\PDF To Excel\Convert PDF To XLS From URL Asynchronously
+\_Web API\PDF To Excel\Convert PDF To XLSX From Uploaded File
+\_Web API\PDF To Excel\Convert PDF To XLSX From URL
+\_Web API\PDF To Excel\Convert PDF To XLSX From URL Asynchronously
+\_Web API\PDF To JSON\Convert PDF To JSON From Uploaded File
+\_Web API\PDF To JSON\Convert PDF To JSON From URL
+\_Web API\PDF To JSON\Convert PDF To JSON From URL Asynchronously
+\_Web API\PDF To Text\Convert PDF To Text From Uploaded File
+\_Web API\PDF To Text\Convert PDF To Text From URL
+\_Web API\PDF To Text\Convert PDF To Text From URL Asynchronously
+\_Web API\PDF To XML\Convert PDF To XML From Uploaded File
+\_Web API\PDF To XML\Convert PDF To XML From URL
+\_Web API\PDF To XML\Convert PDF To XML From URL Asynchronously
