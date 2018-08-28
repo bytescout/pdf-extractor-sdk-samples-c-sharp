@@ -2,6 +2,7 @@
 
 \Batch Processing
 \Compare Documents
+\Detect Lines
 \Extract Attachments
 \Extract Audio
 \Extract Filled Form Data
@@ -31,6 +32,7 @@
 \Merge Documents
 \OCR (Optical Character Recognition)
 \OCR Analyser
+\Optimize PDF
 \Parallel Processing
 \PDF To CSV
 \PDF To CSV By Pages
