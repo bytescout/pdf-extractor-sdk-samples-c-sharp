@@ -44,6 +44,8 @@
 \PDF To XML With Images
 \PDF-A Compatibility Test
 \Profiles
+\Read Hindi Text
+\Read Values from Form Fields
 \Reduce Memory Usage
 \Remove Empty Pages
 \Remove Text
