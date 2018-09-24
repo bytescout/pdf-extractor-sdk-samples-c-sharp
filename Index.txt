@@ -25,6 +25,7 @@
 \Find Text (Regex)
 \Find Text - Smart Match
 \Find Text With Hyphens
+\Index Documents In Folder
 \Index PDF Files
 \Invoice Parsing
 \Make Searchable PDF
@@ -49,11 +50,13 @@
 \Reduce Memory Usage
 \Remove Empty Pages
 \Remove Text
+\Repair Text
 \Rotate Document
 \Split Document
 \XFA Form To XML
 \ZUGFeRD Invoice Extraction
 \_Web API
+\Index Documents In Folder\Files
 \_Web API\PDF Information
 \_Web API\PDF Make Searchable
 \_Web API\PDF Merging
