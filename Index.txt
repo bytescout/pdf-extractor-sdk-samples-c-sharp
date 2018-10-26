@@ -2,9 +2,11 @@
 
 \Batch Processing
 \Compare Documents
+\Data Masking
 \Detect Lines
 \Extract Attachments
 \Extract Audio
+\Extract CSV and Fill Database (SQL Server)
 \Extract Filled Form Data
 \Extract Images
 \Extract Images by Page
@@ -52,7 +54,9 @@
 \Remove Text
 \Repair Text
 \Rotate Document
+\SearchablePDFMaker Progress Indication
 \Split Document
+\TextExtractor Progress Indication
 \XFA Form To XML
 \ZUGFeRD Invoice Extraction
 \_Web API
