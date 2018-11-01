@@ -88,6 +88,7 @@
 \_Web API\PDF To CSV\Convert PDF To CSV From Uploaded File
 \_Web API\PDF To CSV\Convert PDF To CSV From URL
 \_Web API\PDF To CSV\Convert PDF To CSV From URL Asynchronously
+\_Web API\PDF To Excel\Advanced Conversion Options
 \_Web API\PDF To Excel\Convert PDF To XLS From Uploaded File
 \_Web API\PDF To Excel\Convert PDF To XLS From URL
 \_Web API\PDF To Excel\Convert PDF To XLS From URL Asynchronously
