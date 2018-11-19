@@ -19,14 +19,18 @@
 \Extract Text From Page Area
 \Extract To Stream
 \Extract Video
+\Find Email Addresses (with Regex)
 \Find Keyword And Extract Page
 \Find Keyword And Extract Text
+\Find Phone Number (with Regex)
+\Find SSN Number (with Regex)
 \Find Table And Extract As CSV
 \Find Table And Extract As XML
 \Find Text
 \Find Text (Regex)
 \Find Text - Smart Match
 \Find Text With Hyphens
+\Find US Address (with Regex)
 \Index Documents In Folder
 \Index PDF Files
 \Invoice Parsing
