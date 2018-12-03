@@ -1,6 +1,7 @@
 ## Index of source code examples:
 
 \Batch Processing
+\Check If OCR Is Required
 \Compare Documents
 \Data Masking
 \Detect Lines
@@ -64,6 +65,7 @@
 \XFA Form To XML
 \ZUGFeRD Invoice Extraction
 \_Web API
+\Check If OCR Is Required\InputFiles
 \Index Documents In Folder\Files
 \_Web API\PDF Information
 \_Web API\PDF Make Searchable
@@ -94,6 +96,7 @@
 \_Web API\PDF To CSV\Convert PDF To CSV From URL Asynchronously
 \_Web API\PDF To Excel\Advanced Conversion Options
 \_Web API\PDF To Excel\Convert PDF To XLS From Uploaded File
+\_Web API\PDF To Excel\Convert PDF To XLS From Uploaded File (WinForms)
 \_Web API\PDF To Excel\Convert PDF To XLS From URL
 \_Web API\PDF To Excel\Convert PDF To XLS From URL Asynchronously
 \_Web API\PDF To Excel\Convert PDF To XLSX From Uploaded File
