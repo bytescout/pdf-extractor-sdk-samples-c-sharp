@@ -1,47 +1,44 @@
 ## Index of source code examples:
 
-\Batch Processing
-\Check If OCR Is Required
-\Compare Documents
-\Data Masking
-\Detect Lines
-\Extract Attachments
-\Extract Audio
-\Extract CSV and Fill Database (SQL Server)
-\Extract Filled Form Data
-\Extract Images
-\Extract Images by Page
-\Extract Info
-\Extract Pages
-\Extract Table Structure
-\Extract Text
-\Extract Text By Columns
-\Extract Text By Pages
-\Extract Text From Page Area
-\Extract To Stream
-\Extract Video
-\Find Email Addresses (with Regex)
-\Find Keyword And Extract Page
-\Find Keyword And Extract Text
-\Find Phone Number (with Regex)
-\Find SSN Number (with Regex)
-\Find Table And Extract As CSV
-\Find Table And Extract As XML
-\Find Text
-\Find Text (Regex)
-\Find Text - Smart Match
-\Find Text With Hyphens
-\Find US Address (with Regex)
-\Index Documents In Folder
+\Check If OCR Is Required for PDF
+\Compare PDF Documents
+\Data Masking in PDF
+\Detect Lines in PDF
+\Extract Attachments from PDF
+\Extract Audio from PDF
+\Extract CSV from PDF and Fill Database (SQL Server)
+\Extract Filled PDF Form Data
+\Extract Images by Page from PDF
+\Extract Images from PDF
+\Extract PDF document Info
+\Extract PDF Pages
+\Extract PDF text To Stream
+\Extract Table Structure from PDF
+\Extract Text By Columns from PDF
+\Extract Text from PDF
+\Extract Video from PDF
+\Find Email Addresses in PDF with Regex
+\Find Keyword And Extract Page in PDF
+\Find Keyword And Extract Text in PDF
+\Find PDF Table And Extract As CSV
+\Find PDF Table And Extract As XML
+\Find Phone Number in PDF with Regex
+\Find SSN in PDF with Regex
+\Find Text in PDF
+\Find Text in PDF using Regex
+\Find Text in PDF With Hyphens
+\Find Text in PDF with Smart Match
+\Find US Address in PDF with Regex
+\Index PDF Documents In Folder
 \Index PDF Files
-\Invoice Parsing
 \Make Searchable PDF
 \Make Unsearchable PDF
-\Merge Documents
-\OCR (Optical Character Recognition)
+\Merge PDF Documents
 \OCR Analyser
 \Optimize PDF
-\Parallel Processing
+\PDF and OCR (Optical Character Recognition)
+\PDF files Parallel Processing
+\PDF Invoice Parsing
 \PDF To CSV
 \PDF To CSV By Pages
 \PDF To JSON
@@ -50,64 +47,19 @@
 \PDF To XLS
 \PDF To XML
 \PDF To XML With Images
+\PDF XFA Form To XML
 \PDF-A Compatibility Test
-\Profiles
-\Read Hindi Text
-\Read Values from Form Fields
-\Reduce Memory Usage
-\Remove Empty Pages
-\Remove Text
-\Repair Text
-\Rotate Document
+\Read Hindi Text from PDF
+\Read Values from PDF Form Fields
+\Reduce Memory Usage for PDF to Text
+\Remove Empty Pages from PDF
+\Remove Text from PDF
+\Repair Text in PDF
+\Rotate PDF Document
 \SearchablePDFMaker Progress Indication
-\Split Document
+\Set Configuration Profiles
+\Split PDF Document
 \TextExtractor Progress Indication
-\XFA Form To XML
 \ZUGFeRD Invoice Extraction
-\_Web API
-\Check If OCR Is Required\InputFiles
-\Index Documents In Folder\Files
-\_Web API\PDF Information
-\_Web API\PDF Make Searchable
-\_Web API\PDF Merging
-\_Web API\PDF Optimization
-\_Web API\PDF Splitting
-\_Web API\PDF To CSV
-\_Web API\PDF To Excel
-\_Web API\PDF To JSON
-\_Web API\PDF To Text
-\_Web API\PDF To XML
-\_Web API\PDF Information\Get PDF Info From Uploaded File
-\_Web API\PDF Information\Get PDF Info From URL
-\_Web API\PDF Make Searchable\Make Searchable PDF From Uploaded File
-\_Web API\PDF Make Searchable\Make Searchable PDF From URL
-\_Web API\PDF Make Searchable\Make Searchable PDF From URL Asynchronously
-\_Web API\PDF Merging\Merge PDF Documents From Uploaded Files
-\_Web API\PDF Merging\Merge PDF Documents From URLs
-\_Web API\PDF Merging\Merge PDF Documents From URLs Asynchronously
-\_Web API\PDF Optimization\Optimize PDF From Uploaded File
-\_Web API\PDF Optimization\Optimize PDF From URL
-\_Web API\PDF Optimization\Optimize PDF From URL Asynchronously
-\_Web API\PDF Splitting\Split PDF From Uploaded File
-\_Web API\PDF Splitting\Split PDF From URL
-\_Web API\PDF Splitting\Split PDF From URL Asynchronously
-\_Web API\PDF To CSV\Convert PDF To CSV From Uploaded File
-\_Web API\PDF To CSV\Convert PDF To CSV From URL
-\_Web API\PDF To CSV\Convert PDF To CSV From URL Asynchronously
-\_Web API\PDF To Excel\Advanced Conversion Options
-\_Web API\PDF To Excel\Convert PDF To XLS From Uploaded File
-\_Web API\PDF To Excel\Convert PDF To XLS From Uploaded File (WinForms)
-\_Web API\PDF To Excel\Convert PDF To XLS From URL
-\_Web API\PDF To Excel\Convert PDF To XLS From URL Asynchronously
-\_Web API\PDF To Excel\Convert PDF To XLSX From Uploaded File
-\_Web API\PDF To Excel\Convert PDF To XLSX From URL
-\_Web API\PDF To Excel\Convert PDF To XLSX From URL Asynchronously
-\_Web API\PDF To JSON\Convert PDF To JSON From Uploaded File
-\_Web API\PDF To JSON\Convert PDF To JSON From URL
-\_Web API\PDF To JSON\Convert PDF To JSON From URL Asynchronously
-\_Web API\PDF To Text\Convert PDF To Text From Uploaded File
-\_Web API\PDF To Text\Convert PDF To Text From URL
-\_Web API\PDF To Text\Convert PDF To Text From URL Asynchronously
-\_Web API\PDF To XML\Convert PDF To XML From Uploaded File
-\_Web API\PDF To XML\Convert PDF To XML From URL
-\_Web API\PDF To XML\Convert PDF To XML From URL Asynchronously
+\Check If OCR Is Required for PDF\InputFiles
+\Index PDF Documents In Folder\Files
