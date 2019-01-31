@@ -12,10 +12,12 @@
 \Extract Images from PDF
 \Extract PDF document Info
 \Extract PDF Pages
+\Extract PDF Text From Page Area
 \Extract PDF text To Stream
 \Extract Table Structure from PDF
 \Extract Text By Columns from PDF
 \Extract Text from PDF
+\Extract Text From PDF By Pages
 \Extract Video from PDF
 \Find Email Addresses in PDF with Regex
 \Find Keyword And Extract Page in PDF
@@ -37,6 +39,7 @@
 \OCR Analyser
 \Optimize PDF
 \PDF and OCR (Optical Character Recognition)
+\PDF Batch Processing
 \PDF files Parallel Processing
 \PDF Invoice Parsing
 \PDF To CSV
