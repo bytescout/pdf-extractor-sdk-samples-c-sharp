@@ -56,6 +56,10 @@
 \Remove Text from PDF
 \Repair Text in PDF
 \Rotate PDF Document
+\Scanned PDF to CSV
+\Scanned PDF to JSON
+\Scanned PDF to Text
+\Scanned PDF to XML
 \SearchablePDFMaker Progress Indication
 \Set Configuration Profiles
 \Split PDF Document
