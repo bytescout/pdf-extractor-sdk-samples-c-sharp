@@ -1,5 +1,6 @@
 ## Index of source code examples:
 
+\Batch check folder agianst JSON settings
 \Check If OCR Is Required for PDF
 \Compare PDF Documents
 \Data Masking in PDF
@@ -44,6 +45,7 @@
 \PDF files Parallel Processing
 \PDF Invoice Parsing
 \PDF To CSV
+\PDF To CSV (Merge multiline text to table cell)
 \PDF To CSV By Pages
 \PDF To JSON
 \PDF To JSON With Images
@@ -69,5 +71,6 @@
 \Split PDF Document
 \TextExtractor Progress Indication
 \ZUGFeRD Invoice Extraction
+\Batch check folder agianst JSON settings\InputFiles
 \Check If OCR Is Required for PDF\InputFiles
 \Index PDF Documents In Folder\Files
