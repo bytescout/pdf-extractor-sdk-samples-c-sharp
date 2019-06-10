@@ -39,6 +39,8 @@
 \Make Unsearchable PDF
 \Merge PDF Documents
 \OCR Analyser
+\OCR With Best Dataset
+\OCR With Fast Dataset
 \Optimize PDF
 \PDF and OCR (Optical Character Recognition)
 \PDF Batch Processing
