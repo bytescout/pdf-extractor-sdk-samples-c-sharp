@@ -51,6 +51,7 @@
 \PDF To JSON With Images
 \PDF To XFDF
 \PDF To XLS
+\PDF To XLSX
 \PDF To XML
 \PDF To XML With Images
 \PDF XFA Form To XML
