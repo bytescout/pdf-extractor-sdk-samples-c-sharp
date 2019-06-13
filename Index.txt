@@ -3,6 +3,7 @@
 \Batch check folder agianst JSON settings
 \Check If OCR Is Required for PDF
 \Compare PDF Documents
+\Convert Protected PDF Document to XLS
 \Data Masking in PDF
 \Detect Lines in PDF
 \Extract Attachments from PDF
@@ -40,6 +41,7 @@
 \Make Searchable PDF from Image
 \Make Unsearchable PDF
 \Merge PDF Documents
+\Merge Protected PDF Documents
 \OCR Analyser
 \OCR With Best Dataset
 \OCR With Fast Dataset
@@ -76,6 +78,7 @@
 \SearchablePDFMaker Progress Indication
 \Set Configuration Profiles
 \Split PDF Document
+\Split Protected PDF Document
 \TextExtractor Progress Indication
 \ZUGFeRD Invoice Extraction
 \Batch check folder agianst JSON settings\InputFiles
