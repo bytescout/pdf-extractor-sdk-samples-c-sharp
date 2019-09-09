@@ -41,6 +41,7 @@
 \Make Searchable PDF Discarding Existing Content
 \Make Searchable PDF from Image
 \Make Unsearchable PDF
+\Merge All Documents Within Folder
 \Merge PDF Documents
 \Merge Protected PDF Documents
 \OCR Analyser
@@ -85,3 +86,4 @@
 \Batch check folder agianst JSON settings\InputFiles
 \Check If OCR Is Required for PDF\InputFiles
 \Index PDF Documents In Folder\Files
+\Merge All Documents Within Folder\PDFDocs
