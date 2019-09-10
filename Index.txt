@@ -68,6 +68,7 @@
 \Read Hindi Text from PDF
 \Read Text From Noisy Image
 \Read Values from PDF Form Fields
+\Reading and Writing to Azure Blob
 \Reduce Memory Usage for PDF to Text
 \Remove Empty Pages from PDF
 \Remove Text from PDF
