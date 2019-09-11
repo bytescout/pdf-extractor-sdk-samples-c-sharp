@@ -79,6 +79,7 @@
 \Scanned PDF to Text
 \Scanned PDF to XML
 \SearchablePDFMaker Progress Indication
+\Sensitive Data Detector
 \Set Configuration Profiles
 \Split PDF Document
 \Split Protected PDF Document
