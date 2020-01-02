@@ -41,6 +41,7 @@
 \Make Searchable PDF Discarding Existing Content
 \Make Searchable PDF from Image
 \Make Unsearchable PDF
+\Maximize performance and speed
 \Merge All Documents Within Folder
 \Merge PDF Documents
 \Merge Protected PDF Documents
