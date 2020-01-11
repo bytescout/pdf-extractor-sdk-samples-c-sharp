@@ -5,6 +5,7 @@
 \Check If OCR Is Required for PDF
 \Compare PDF Documents
 \Convert Protected PDF Document to XLS
+\Correction to Deal with Date Issue after OCR
 \Data Masking in PDF
 \Detect Lines in PDF
 \Extract Attachments from PDF
