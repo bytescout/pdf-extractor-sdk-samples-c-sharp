@@ -8,6 +8,7 @@
 \Correction to Deal with Date Issue after OCR
 \Data Masking in PDF
 \Detect Lines in PDF
+\Download and Process file
 \Extract Attachments from PDF
 \Extract Audio from PDF
 \Extract CSV from PDF and Fill Database (SQL Server)
@@ -35,6 +36,8 @@
 \Find Text in PDF With Hyphens
 \Find Text in PDF with Smart Match
 \Find US Address in PDF with Regex
+\Get Word Coordinates in JSON
+\Get Word Coordinates in XML
 \Index PDF Documents In Folder
 \Index PDF Files
 \Make Searchable PDF
