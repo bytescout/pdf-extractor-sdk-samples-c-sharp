@@ -76,6 +76,7 @@
 \Reading and Writing to Azure Blob
 \Reduce Memory Usage for PDF to Text
 \Remove Empty Pages from PDF
+\Remove SSN Number from PDF Document
 \Remove Text from PDF
 \Repair Text in PDF
 \Rotate PDF Document
