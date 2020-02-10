@@ -24,6 +24,7 @@
 \Extract Text from PDF
 \Extract Text From PDF By Pages
 \Extract Video from PDF
+\Extraction From Complex Borderless Tables
 \Find Email Addresses in PDF with Regex
 \Find Keyword And Extract Page in PDF
 \Find Keyword And Extract Text in PDF
