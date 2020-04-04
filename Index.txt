@@ -9,6 +9,7 @@
 \Data Masking in PDF
 \Detect Lines in PDF
 \Download and Process file
+\Extract 3D Animation from PDF
 \Extract Attachments from PDF
 \Extract Audio from PDF
 \Extract CSV from PDF and Fill Database (SQL Server)
