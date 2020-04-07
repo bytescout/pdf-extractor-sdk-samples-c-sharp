@@ -54,6 +54,7 @@
 \Merge PDF Documents
 \Merge Protected PDF Documents
 \OCR Analyser
+\OCR Modes
 \OCR With Best Dataset
 \OCR With Fast Dataset
 \OCR With Mean Dataset
