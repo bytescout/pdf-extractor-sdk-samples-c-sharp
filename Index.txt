@@ -1,6 +1,7 @@
 ## Index of source code examples:
 
 \Add Image Stamp in PDF
+\Arabic Text Extraction
 \Batch check folder agianst JSON settings
 \Check If OCR Is Required for PDF
 \Compare PDF Documents
