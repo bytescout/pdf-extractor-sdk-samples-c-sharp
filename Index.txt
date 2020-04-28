@@ -94,6 +94,7 @@
 \SearchablePDFMaker Progress Indication
 \Sensitive Data Detector
 \Set Configuration Profiles
+\Split Document into Separate Pages
 \Split PDF Document
 \Split Protected PDF Document
 \TextExtractor Progress Indication
