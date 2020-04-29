@@ -73,6 +73,7 @@
 \PDF To XFDF
 \PDF To XLS
 \PDF To XLSX
+\PDF To XLSX by pages
 \PDF To XML
 \PDF To XML With Images
 \PDF XFA Form To XML
