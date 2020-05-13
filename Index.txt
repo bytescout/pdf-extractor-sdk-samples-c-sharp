@@ -23,6 +23,7 @@
 \Extract PDF text To Stream
 \Extract Table Structure from PDF
 \Extract Text By Columns from PDF
+\Extract Text from Foldable Brochure Booklet
 \Extract Text from PDF
 \Extract Text From PDF By Pages
 \Extract Video from PDF
