@@ -3,6 +3,7 @@
 \Add Image Stamp in PDF
 \Arabic Text Extraction
 \Batch check folder agianst JSON settings
+\Census Table from Life and Annuity quote request PDF
 \Check If OCR Is Required for PDF
 \Compare PDF Documents
 \Convert Protected PDF Document to XLS
