@@ -10,6 +10,7 @@
 \Correction to Deal with Date Issue after OCR
 \Data Masking in PDF
 \Detect Lines in PDF
+\Display License Info
 \Download and Process file
 \Extract 3D Animation from PDF
 \Extract Attachments from PDF
