@@ -6,6 +6,8 @@
 \Census Table from Life and Annuity quote request PDF
 \Check If OCR Is Required for PDF
 \Compare PDF Documents
+\Convert PDF to Black and White
+\Convert PDF to Black and White Excluding some page
 \Convert Protected PDF Document to XLS
 \Correction to Deal with Date Issue after OCR
 \Data Masking in PDF
