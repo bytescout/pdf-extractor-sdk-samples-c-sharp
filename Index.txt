@@ -40,6 +40,8 @@
 \Find Keyword And Extract Text in PDF
 \Find PDF Borderless Table And Extract As CSV
 \Find PDF Table And Extract As CSV
+\Find PDF Table And Extract As JSON
+\Find PDF Table And Extract As Text
 \Find PDF Table And Extract As XML
 \Find Phone Number in PDF with Regex
 \Find SSN in PDF with Regex
