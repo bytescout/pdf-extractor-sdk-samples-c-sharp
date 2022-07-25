@@ -110,6 +110,7 @@
 \Set Configuration Profiles
 \Split Document into Separate Pages
 \Split PDF Document
+\Split PDF Document By Text
 \Split Protected PDF Document
 \TextExtractor Progress Indication
 \ZUGFeRD Invoice Extraction
